@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12d761bb-ff78-4f5b-843b-31c37b0b27f7" name="Default Changelist" comment="" />
+    <list default="true" id="12d761bb-ff78-4f5b-843b-31c37b0b27f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l8ZunHYxKQ5H0XEv1La9CN8jrl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index.js" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -53,6 +63,8 @@
       <workItem from="1607327259482" duration="293000" />
       <workItem from="1607332556698" duration="627000" />
       <workItem from="1607333205480" duration="24098000" />
+      <workItem from="1607921518698" duration="465000" />
+      <workItem from="1607922010706" duration="2344000" />
     </task>
     <servers />
   </component>
@@ -72,6 +84,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="802" y="245" width="488" height="446" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1607490823799" />
+    <state x="406" y="12" key="CommitChangelistDialog2" timestamp="1607930398801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607930398801" />
     <state width="406" height="466" key="DebuggerActiveHint" timestamp="1607488963008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -144,10 +160,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1607505295809" />
-    <state x="279" y="58" key="SettingsEditor" timestamp="1607333187825">
+    <state x="279" y="58" key="SettingsEditor" timestamp="1607921988241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607333187825" />
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607921988241" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1607930378849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607930378849" />
     <state x="332" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607491309149">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -168,7 +188,6 @@
           <condition expression="arr[1].includes(&quot;SAO CARLOS EMPREEND E&quot;)" language="JavaScript" />
           <url>file://$PROJECT_DIR$/index.js</url>
           <line>45</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
